@@ -26,4 +26,4 @@ module.exports = {
     findWord: findWord,
     isEven: isEven,
     isPrime: isPrime
-};
+}; 

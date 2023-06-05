@@ -28,4 +28,4 @@ console.log(`В тексте "${text}" - количество найденных
 const number = 13
 const isEven = module3.isEven(number)
 const isPrime = module3.isPrime(number)
-console.log(`Число ${number} - четное: ${isEven}, простое: ${isPrime}`)
+console.log(`Число ${number} - четное: ${isEven}, простое: ${isPrime}`) 

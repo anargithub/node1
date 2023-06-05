@@ -10,4 +10,4 @@ const message = cowsay.say({
 
 console.log(message)
 
-module.exports = cowsay
+module.exports = cowsay 

@@ -8,6 +8,6 @@ module.exports.setEvent = (event, cb) => {
 } 
 module.exports.callEvent = (event) => {
     emitter.emit(event)
-} 
+}  
 
 
